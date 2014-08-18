@@ -1,0 +1,7 @@
+nose
+nose-cov
+circus
+flake8
+mock
+unittest2
+ws4py

@@ -1,0 +1,8 @@
+*.pyc
+*.un~
+.Python
+.tox/
+bin/
+include/
+lib/
+loads_base.egg-info/
